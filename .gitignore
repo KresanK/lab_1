@@ -1,0 +1,18 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+
+# User-specific files
+*.user
+*.suo
+
+# Backup & log files
+*.log
+*.tmp
+
+# NuGet packages
+*.nupkg
+packages/
